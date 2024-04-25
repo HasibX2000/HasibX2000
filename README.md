@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Akon M Hasib</h1>
 <h3 align="center">FrontEnd Web Dev | Email Developer | WP Guy</h3>
-- 🔭 I’m currently working on [Redux](https://github.com/HasibX2000/Todo-Application-With-Redux)
-- 🌱 I’m currently learning **Redux**
-- 💬 Ask me about **Email Dev, React**
-- 📫 How to reach me **hasiburbd24@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/HasibX2000**
-- 📝 I regularly write articles on **https://www.quora.com/profile/Akon-M-Hasib**
-- 📄 Know about my experiences **https://github.com/HasibX2000**
-- ⚡ Fun fact **I can fix printers**
+- 🔭 I’m currently working on [Redux](https://github.com/HasibX2000/Todo-Application-With-Redux) <br/>
+- 🌱 I’m currently learning **Redux** <br/>
+- 💬 Ask me about **Email Dev, React** <br/>
+- 📫 How to reach me **hasiburbd24@gmail.com** <br/>
+- 👨‍💻 All of my projects are available at **https://github.com/HasibX2000** <br/>
+- 📝 I regularly write articles on **https://www.quora.com/profile/Akon-M-Hasib** <br/>
+- 📄 Know about my experiences **https://github.com/HasibX2000** <br/>
+- ⚡ Fun fact **I can fix printers** <br/>
 
 <div> <a href="https://twitter.com/HasibX2000" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/HasibX2000" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
