@@ -4,10 +4,6 @@
 
 <h3 align="center">A passionate web apps developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasibx2000&label=Profile%20views&color=0e75b6&style=flat" alt="hasibx2000" />
-</p>
-
 ## 🚀 About Me
 
 Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and backend technologies. With over 5 years of experience in email design and web development, I specialize in creating robust web applications and pixel-perfect email templates.
