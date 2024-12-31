@@ -1,34 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akon+M+Hasib;Full+Stack+Developer;Email+Design+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akon+M+Hasib;Frontend+Developer;Email+Design+Specialist" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A passionate web apps developer from Bangladesh</h3>
 
 ## 🚀 About Me
 
-Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and backend technologies. With over 5 years of experience in email design and web development, I specialize in creating robust web applications and pixel-perfect email templates.
+Hi! I'm Akon M Hasib, a Frontend Developer with expertise in frontend technologies. With over 5 years of experience in email design and web development, I specialize in creating robust web applications and pixel-perfect email templates.
 
 - 🔭 I'm currently working on **Restaurant Management SAAS**
-- 🌱 I'm currently learning **Data Structures and Algorithms**
-- 💬 Ask me about **React, Next, Email Design, WordPress, Node JS, Express JS**
+- 💬 Ask me about **React, Next, Email Design, WordPress**
 - 📫 Reach me at **akonmhasib@gmail.com**
 - ⚡ Fun fact: **I can fix printers** 😄
 - 👨‍💻 Portfolio: [www.akonmhasib.site](https://www.akonmhasib.site/)
 
-## 📊 Stats & Achievements
-
-- 📧 **500+** Completed Email Projects
-- ⏳ **5+** Years in Email Design
-- ⭐ **100%** Client Satisfaction
 
 ## 🔥 Featured Projects
 
 1. **SwiftMart - Multivendor Ecommerce**
+
    - A comprehensive multivendor ecommerce platform with role-based access control
    - Technologies: React, Tailwind CSS, Supabase, Redux Toolkit
    - [Live Demo](https://swiftmart-akon.vercel.app/) | [GitHub](https://github.com/HasibX2000/SwiftMart)
 
 2. **Email Design Course Platform**
+
    - Modern course selling platform focused on email design education
    - Technologies: Next.js, React, Tailwind CSS
    - [Live Demo](https://emaildesigncourse.vercel.app/) | [GitHub](https://github.com/HasibX2000/next-emailcourse)
@@ -45,6 +41,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 </details>
 
 <details>
@@ -57,6 +54,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
 </details>
 
 <details>
@@ -64,6 +62,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![D3.js](https://img.shields.io/badge/d3.js-F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
+
 </details>
 
 <details>
@@ -73,32 +72,26 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Stateyze](https://img.shields.io/badge/Stateyze-black?style=for-the-badge&logo=react&logoColor=white)
+
 </details>
 
 <details>
 <summary>Build Tools & Module Bundlers</summary>
 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 </details>
 
-<details>
-<summary>Testing</summary>
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-</details>
 
 <details>
 <summary>Backend Development</summary>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 </details>
 
 <details>
@@ -108,6 +101,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 </details>
 
 <details>
@@ -116,6 +110,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 ![MailChimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
 ![Campaign Monitor](https://img.shields.io/badge/Campaign%20Monitor-157EFB.svg?style=for-the-badge&logo=Campaign-Monitor&logoColor=white)
 ![Constant Contact](https://img.shields.io/badge/Constant%20Contact-00B5E2.svg?style=for-the-badge&logo=Constant-Contact&logoColor=white)
+
 </details>
 
 <details>
@@ -129,6 +124,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </details>
 
 <details>
@@ -139,6 +135,7 @@ Hi! I'm Akon M Hasib, a Full Stack Developer with expertise in both frontend and
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 </details>
 
 ## 📈 GitHub Stats
